@@ -3,12 +3,14 @@
 👩‍💻 **Coordenadora de Análise de Sistemas**
 🔍 Focada em **Quality Assurance (QA)**, garantindo a entrega de software com alta qualidade e confiabilidade.
 
-
-![sql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor)
-
-![sql](https://img.icons8.com/?size=100&id=105446&format=png&color=000000)
-
-![sql](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL Logo" width="50"/>
+  
+  <img src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" alt="MariaDB" title="SQL Database Icon" width="50"/>
+  
+  <img src="https://img.icons8.com/?size=50&id=105446&format=png&color=000000" alt="SQL Logo 2" title="Delphi" width="50"/>
+  
+  <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000" alt="SQL Logo 3" title="Python" width="50"/>
+</p>
 
 
