@@ -3,9 +3,12 @@
 👩‍💻 **Coordenadora de Análise de Sistemas**
 🔍 Focada em **Quality Assurance (QA)**, garantindo a entrega de software com alta qualidade e confiabilidade.
 
-## ⚙️ Habilidades Técnicas
 
-- **Testes de Software**: Testes manuais e automatizados, teste de regressão, testes funcionais e não funcionais
-- **Metodologias Ágeis**: Scrum, Kanban e Sprints.
-- **Documentação**: Elaboração de planos de teste, casos de uso, relatórios de defeitos
-- **Linguagens**: Java, Python, SQL e Delphi.
+![sql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor)
+
+![sql](https://img.icons8.com/?size=100&id=105446&format=png&color=000000)
+
+![sql](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+
+
+
